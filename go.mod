@@ -40,7 +40,7 @@ require (
 	github.com/xhit/go-str2duration/v2 v2.2.0
 	github.com/zalando/go-keyring v0.2.8
 	github.com/zeebo/blake3 v0.2.4
-	go.yaml.in/yaml/v3 v3.0.5
+	go.yaml.in/yaml/v3 v3.0.6
 	golang.org/x/crypto v0.58.0
 	golang.org/x/mod v0.42.0
 	golang.org/x/net v0.61.0
@@ -52,7 +52,7 @@ require (
 
 require (
 	codeberg.org/tslocum/cbind v0.1.9 // indirect
-	dario.cat/mergo v1.0.0 // indirect
+	dario.cat/mergo v1.0.2 // indirect
 	filippo.io/edwards25519 v1.2.0 // indirect
 	filippo.io/hpke v0.4.0 // indirect
 	filippo.io/nistec v0.0.4 // indirect
